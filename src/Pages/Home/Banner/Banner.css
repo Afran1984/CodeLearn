@@ -1,0 +1,31 @@
+.verified-btn{
+    width: 200px;
+    height: 24px;
+    background-image: linear-gradient(#241457, #4F2BBD) ;
+    color: white;
+}
+.coder{
+    color: yellow;
+    text-decoration: underline;
+}
+.margine{
+    margin-left: 70px;
+}
+
+.marginer{
+    margin-right: 70px;
+}
+.buttonAll{
+    width: 200px;
+    height: 35px;
+    background-color: #291B52;
+    color: white;
+    padding: 5px;
+}
+.buttonAllGet{
+    width: 100px;
+    height: 35px;
+    background-color: #EAE34A;
+    color: white;
+    padding: 5px;
+}

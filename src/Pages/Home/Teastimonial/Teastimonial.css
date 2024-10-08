@@ -1,0 +1,15 @@
+.card img {
+    border-radius: 0.5rem; /* Ensures image corners match card */
+}
+
+.card {
+    min-width: 250px; /* Set a minimum width for the card */
+    max-width: 300px; /* Optional: limit maximum width */
+}
+
+/* Optional: Make it responsive */
+@media (max-width: 768px) {
+    .card {
+        min-width: 200px; /* Reduce card size on smaller screens */
+    }
+}
